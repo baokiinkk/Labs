@@ -85,6 +85,7 @@ thoiGian::~thoiGian()
 
 int main()
 {
+	//
 	thoiGian tg1,tg2;
 	cout << "thoi gian thu 1 : \n";
 	cin>>tg1;
